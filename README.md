@@ -135,7 +135,7 @@
 
 ## License
 
-Copyright (c) 2026 Leon (Lovelakshya1). All rights reserved.
+Copyright (c) 2026 kouhai (Lovelakshya1). All rights reserved.
 
 Himmy Anime is free to download and use. The source code is not publicly available. Third-party license notices are included in the app under MySpace → About.
 
