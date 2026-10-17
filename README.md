@@ -1,7 +1,8 @@
 <h1 align="center">Himmy Anime</h1>
 
 <p align="center">
-  <b>The best-looking, most customizable anime and manga app for Android. 100% ad-free.</b>
+  <b>The best-looking, most customizable anime and manga app for Android. 100% ad-free.
+  Created by "Lovelakshya".</b>
 </p>
 
 <p align="center">
