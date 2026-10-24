@@ -146,7 +146,7 @@
 
 ## Disclaimer
 
-- **Himmy Anime** is an open-source client application created for educational and personal use only.
+- **Himmy Anime** is an closed-source client application created for educational and personal use only.
 - It does not host, store, or distribute any video or media content on its own servers. All streams, manga scans, and downloads are indexed from publicly available third-party services.
 - All anime titles, images, character names, and trademarks belong to their respective copyright owners.
 - If you have copyright concerns regarding specific content, please contact the third-party provider hosting the material directly.
@@ -155,7 +155,7 @@
 
 ## License
 
-Copyright (c) 2026 kouhai (Lovelakshya1). All rights reserved.
+Copyright (c) 2026 Lovelakshya (Lovelakshya1). All rights reserved.
 
 Himmy Anime is free to download and use. Third-party open-source license notices are included directly in the app under **MySpace $\rightarrow$ About**.
 
